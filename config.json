@@ -1,0 +1,12 @@
+{
+  "name": "Train dataset - Aerial Power Infrastructure Detection",
+  "description": "XXX",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project"
+  ],
+  "icon": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/380e5eed-05b0-49d7-99ac-baade9e0ac72",
+  "icon_cover": true
+}
