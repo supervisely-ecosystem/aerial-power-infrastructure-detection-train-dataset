@@ -4,6 +4,19 @@
   
 <img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/32ba958e-07a8-4509-9a72-f82064f75e9a"/> 
 
+<p align="center">
+
+  <a href="#overview">Overview</a> •
+  <a href="#download">Download</a> •
+  <a href="#data-example">Data-Example</a> •
+  
+</p>
+
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly)
+
 # Train dataset - Aerial Power Infrastructure Detection
 
 </div>
@@ -22,7 +35,7 @@ The dataset consists of top-view images of MV poles from various locations acros
 | Validation   | 2587    | 2370    |
 | Testing      | 1572    | 1449    |
 
-## Download
+# Download
 Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/releases/download/v0.9.0/Train.tar) (136 MB)
 
 # Data-Example
