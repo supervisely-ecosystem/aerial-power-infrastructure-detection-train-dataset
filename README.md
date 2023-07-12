@@ -39,7 +39,7 @@ The dataset consists of top-view images of MV poles from various locations acros
 # Download
 Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/releases/download/v0.9.0/Train.tar) (136 MB)
 
-# Data-Example
+# Example
 
 <img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/452d1126-7521-4830-b791-4f080a80d024"/>
 
