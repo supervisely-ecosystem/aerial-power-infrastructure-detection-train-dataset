@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 165335,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:39.138Z",
+            "updatedAt": "2023-06-13T20:35:39.138Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        319,
+                        0
+                    ],
+                    [
+                        400,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165334,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:39.137Z",
+            "updatedAt": "2023-06-13T20:35:39.137Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        329,
+                        64
+                    ],
+                    [
+                        394,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165333,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:39.137Z",
+            "updatedAt": "2023-06-13T20:35:39.137Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        183
+                    ],
+                    [
+                        345,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

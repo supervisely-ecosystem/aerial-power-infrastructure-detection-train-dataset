@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 168042,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:53.661Z",
+            "updatedAt": "2023-06-13T20:37:53.661Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        18
+                    ],
+                    [
+                        494,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

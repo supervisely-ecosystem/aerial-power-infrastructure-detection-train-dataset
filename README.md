@@ -8,7 +8,8 @@
 
   <a href="#overview">Overview</a> •
   <a href="#download">Download</a> •
-  <a href="#data-example">Data-Example</a> •
+  <a href="#data-example">Example</a> •
+  <a href="#license">License</a>
   
 </p>
 
@@ -29,11 +30,11 @@ Specifically, this dataset is used for implementing the “Pole Detection” pro
 
 The dataset consists of top-view images of MV poles from various locations across Cyprus. Images were captured across different seasons to account for a variety of background conditions, such as grass or ground, as well as at different heights to account for variations in the UAV’s height during inspection. Additionally, all annotations were converted into VOC and COCO formats for training in numerous frameworks. The dataset consists of the following images and detection objects (t-bars):
 
-| Subset       | Images  | T-Bars  |
-| ------------ | ------- | ------- |
-| Training     | 10760   | 10012   |
-| Validation   | 2587    | 2370    |
-| Testing      | 1572    | 1449    |
+| Subset     | Images | T-Bars |
+| ---------- | ------ | ------ |
+| Training   | 10760  | 10012  |
+| Validation | 2587   | 2370   |
+| Testing    | 1572   | 1449   |
 
 # Download
 Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/releases/download/v0.9.0/Train.tar) (136 MB)
@@ -43,3 +44,15 @@ Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-p
 <img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/452d1126-7521-4830-b791-4f080a80d024"/>
 
 > Examples of images labeled with three classes of objects: insulator, pollution flashover, broken.
+
+# License
+
+[Data source](https://zenodo.org/record/7781388)
+
+License: Creative Commons Attribution 4.0 International
+
+Citation:
+
+```
+Antonis Savva, Rafael Makrigiorgis, Panayiotis Kolios, & Christos Kyrkou. (2023). Aerial Power Infrastructure Detection Dataset (2.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7781388
+```

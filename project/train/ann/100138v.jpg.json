@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 166773,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.084Z",
+            "updatedAt": "2023-06-13T20:37:02.084Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        48
+                    ],
+                    [
+                        354,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166772,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.084Z",
+            "updatedAt": "2023-06-13T20:37:02.084Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        27
+                    ],
+                    [
+                        328,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166771,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.084Z",
+            "updatedAt": "2023-06-13T20:37:02.084Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        52
+                    ],
+                    [
+                        340,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166770,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.083Z",
+            "updatedAt": "2023-06-13T20:37:02.083Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        70
+                    ],
+                    [
+                        352,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166769,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.083Z",
+            "updatedAt": "2023-06-13T20:37:02.083Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        256,
+                        96
+                    ],
+                    [
+                        324,
+                        108
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166768,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.083Z",
+            "updatedAt": "2023-06-13T20:37:02.083Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        240,
+                        116
+                    ],
+                    [
+                        343,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166767,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.082Z",
+            "updatedAt": "2023-06-13T20:37:02.082Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        161
+                    ],
+                    [
+                        333,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 166766,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:37:02.081Z",
+            "updatedAt": "2023-06-13T20:37:02.081Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        324
+                    ],
+                    [
+                        320,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

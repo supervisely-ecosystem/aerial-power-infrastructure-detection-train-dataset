@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 165420,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:53.022Z",
+            "updatedAt": "2023-06-13T20:35:53.022Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        0
+                    ],
+                    [
+                        404,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165419,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:53.022Z",
+            "updatedAt": "2023-06-13T20:35:53.022Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        341,
+                        187
+                    ],
+                    [
+                        400,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165418,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:35:53.021Z",
+            "updatedAt": "2023-06-13T20:35:53.021Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        159
+                    ],
+                    [
+                        306,
+                        211
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

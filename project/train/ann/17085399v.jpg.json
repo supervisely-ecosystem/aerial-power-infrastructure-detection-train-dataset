@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 165711,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:36:05.303Z",
+            "updatedAt": "2023-06-13T20:36:05.303Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        5
+                    ],
+                    [
+                        489,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165710,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:36:05.301Z",
+            "updatedAt": "2023-06-13T20:36:05.301Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        3
+                    ],
+                    [
+                        639,
+                        56
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165709,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:36:05.301Z",
+            "updatedAt": "2023-06-13T20:36:05.301Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        134
+                    ],
+                    [
+                        355,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 165708,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:36:05.301Z",
+            "updatedAt": "2023-06-13T20:36:05.301Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        439,
+                        2
+                    ],
+                    [
+                        482,
+                        27
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

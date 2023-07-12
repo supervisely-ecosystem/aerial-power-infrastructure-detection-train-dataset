@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 168723,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:24.843Z",
+            "updatedAt": "2023-06-13T20:38:24.843Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        12
+                    ],
+                    [
+                        356,
+                        292
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168722,
+            "classId": 7487,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:24.843Z",
+            "updatedAt": "2023-06-13T20:38:24.843Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        206
+                    ],
+                    [
+                        350,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

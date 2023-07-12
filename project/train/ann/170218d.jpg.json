@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 168343,
+            "classId": 7488,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.226Z",
+            "updatedAt": "2023-06-13T20:38:12.226Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        44
+                    ],
+                    [
+                        290,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168342,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.225Z",
+            "updatedAt": "2023-06-13T20:38:12.225Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        76
+                    ],
+                    [
+                        253,
+                        87
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168341,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.225Z",
+            "updatedAt": "2023-06-13T20:38:12.225Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        229,
+                        110
+                    ],
+                    [
+                        246,
+                        121
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168340,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.225Z",
+            "updatedAt": "2023-06-13T20:38:12.225Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        147
+                    ],
+                    [
+                        256,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168339,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.225Z",
+            "updatedAt": "2023-06-13T20:38:12.225Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        196
+                    ],
+                    [
+                        242,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168338,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.224Z",
+            "updatedAt": "2023-06-13T20:38:12.224Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        270
+                    ],
+                    [
+                        261,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168337,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.224Z",
+            "updatedAt": "2023-06-13T20:38:12.224Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        250
+                    ],
+                    [
+                        259,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 168336,
+            "classId": 7489,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2023-06-13T20:38:12.224Z",
+            "updatedAt": "2023-06-13T20:38:12.224Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        200,
+                        285
+                    ],
+                    [
+                        233,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
