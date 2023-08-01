@@ -1,9 +1,9 @@
 {
-  "name": "Train dataset - Aerial Power Infrastructure Detection",
+  "name": "Train dataset - Insulator-Defect Detection",
   "description": "For object detection tutorials",
   "type": "project",
   "categories": ["import", "images", "project"],
   "icon": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/380e5eed-05b0-49d7-99ac-baade9e0ac72",
   "icon_cover": true,
-  "poster": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/32ba958e-07a8-4509-9a72-f82064f75e9a"
+  "poster": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/526c55da-7278-4214-9da0-a7e166ec21e6"
 }
