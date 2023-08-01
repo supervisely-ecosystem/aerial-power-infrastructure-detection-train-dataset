@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
   
-<img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/32ba958e-07a8-4509-9a72-f82064f75e9a"/> 
+<img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/526c55da-7278-4214-9da0-a7e166ec21e6"/> 
 
 <p align="center">
 
@@ -18,23 +18,17 @@
 [![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly)
 [![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset.png)](https://supervise.ly)
 
-# Train dataset - Aerial Power Infrastructure Detection
+# Train dataset - Insulator-Defect Detection
 
 </div>
 
 # Overview
 
-Autonomous inspection of power networks with Unmanned Aerial Vehicles (UAVs) has recently gained significant scientific attention mainly due to rapid advances in UAV technology. In this context, the UAV must autonomously navigate across the network acquiring high resolution data in a safe and fast manner, which poses challenges especially in cases where the location of infrastructure components, i.e. poles, is not known. The Aerial Power Infrastructure Detection Dataset is constructed aiming to create a repository available to the research community, which can be used for training online detection models, which in turn facilitate UAV localization across the network.
+There are few insulator-defect datasets published for overhead transmission lines, or even in the whole electric power field. In total, 1600 original images were captured from Baidu and Google or collated from public datasets. The resolution width of the image pixels in this dataset is more than 2000–5000 and the height value is more than 2000–3000. Insulators and the insulator dataset are constructed according to the original pictures, which mainly include two defects: pollution flashover and damage.
 
-Specifically, this dataset is used for implementing the “Pole Detection” process of ICARUS toolkit, which is a vision-based UAV monitoring platform for autonomous inspection of Medium Voltage (MV) power distribution network. Specifically, the UAV is supplied with the best-known coordinates of poles and navigates to the designated location searching for the pole. As soon as the pole is detected, using an one-class detection model, the UAV applies a control procedure to correct its position by aligning directly above the pole. For the training, we used samples containing the T-shaped bar of the pole with the insulators and the top of pole [1].
+<img src="https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-test-dataset/assets/119248312/908f8597-81bc-4b9e-bae0-355e62d4ce70"/> 
 
-The dataset consists of top-view images of MV poles from various locations across Cyprus. Images were captured across different seasons to account for a variety of background conditions, such as grass or ground, as well as at different heights to account for variations in the UAV’s height during inspection. Additionally, all annotations were converted into VOC and COCO formats for training in numerous frameworks. The dataset consists of the following images and detection objects (t-bars):
-
-| Subset     | Images | T-Bars |
-| ---------- | ------ | ------ |
-| Training   | 10760  | 10012  |
-| Validation | 2587   | 2370   |
-| Testing    | 1572   | 1449   |
+>Two different types of defects: (a) pollution flashover; (b) damage.
 
 # Download
 Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/releases/download/v0.9.0/Train.tar) (136 MB)
@@ -47,12 +41,14 @@ Direct download: [tar archive](https://github.com/supervisely-ecosystem/aerial-p
 
 # License
 
-[Data source](https://zenodo.org/record/7781388)
+[Data source](https://doi.org/10.6084/m9.figshare.21200986)
 
-License: Creative Commons Attribution 4.0 International
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+[Original article](https://doi.org/10.3390/s22228801)
 
 Citation:
 
 ```
-Antonis Savva, Rafael Makrigiorgis, Panayiotis Kolios, & Christos Kyrkou. (2023). Aerial Power Infrastructure Detection Dataset (2.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7781388
+by Jianfeng Zheng, Hang Wu, Han Zhang, Zhaoqi Wang and Weiyue Xu, Sensors 2022, 22(22), 8801; https://doi.org/10.3390/s22228801
 ```
